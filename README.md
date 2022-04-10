@@ -16,7 +16,9 @@ You will also see any lint errors in the console.
 
 ### `Back END FOR THIS PROJECT RUNNED THROUGH POSTMAN AND CREATED BY LEETCODE`
 REPOSITORY ->git clone https://github.com/daryanka/react-query-tut-crud-api.git
+##
 CD windows
+##
 Running on cmd line ->  cmd /k main.exe
 
 ###There are other OS in the Repository as well 
